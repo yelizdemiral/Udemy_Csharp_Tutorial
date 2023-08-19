@@ -1,0 +1,15 @@
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/bin/Debug/net7.0/001_Write_WriteLine
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/bin/Debug/net7.0/001_Write_WriteLine.deps.json
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/bin/Debug/net7.0/001_Write_WriteLine.runtimeconfig.json
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/bin/Debug/net7.0/001_Write_WriteLine.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/bin/Debug/net7.0/001_Write_WriteLine.pdb
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/001_Write_WriteLine.csproj.AssemblyReference.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/001_Write_WriteLine.GeneratedMSBuildEditorConfig.editorconfig
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/001_Write_WriteLine.AssemblyInfoInputs.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/001_Write_WriteLine.AssemblyInfo.cs
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/001_Write_WriteLine.csproj.CoreCompileInputs.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/001_Write_WriteLine.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/refint/001_Write_WriteLine.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/001_Write_WriteLine.pdb
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/001_Write_WriteLine.genruntimeconfig.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/001_Write_WriteLine/obj/Debug/net7.0/ref/001_Write_WriteLine.dll

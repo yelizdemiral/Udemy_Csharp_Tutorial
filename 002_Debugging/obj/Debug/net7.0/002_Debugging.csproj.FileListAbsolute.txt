@@ -1,0 +1,15 @@
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/bin/Debug/net7.0/002_Debugging
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/bin/Debug/net7.0/002_Debugging.deps.json
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/bin/Debug/net7.0/002_Debugging.runtimeconfig.json
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/bin/Debug/net7.0/002_Debugging.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/bin/Debug/net7.0/002_Debugging.pdb
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/002_Debugging.csproj.AssemblyReference.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/002_Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/002_Debugging.AssemblyInfoInputs.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/002_Debugging.AssemblyInfo.cs
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/002_Debugging.csproj.CoreCompileInputs.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/002_Debugging.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/refint/002_Debugging.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/002_Debugging.pdb
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/002_Debugging.genruntimeconfig.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/002_Debugging/obj/Debug/net7.0/ref/002_Debugging.dll
