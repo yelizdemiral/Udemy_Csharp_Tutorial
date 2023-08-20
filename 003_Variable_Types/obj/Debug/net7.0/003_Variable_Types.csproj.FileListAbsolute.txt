@@ -1,0 +1,15 @@
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/bin/Debug/net7.0/003_Variable_Types
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/bin/Debug/net7.0/003_Variable_Types.deps.json
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/bin/Debug/net7.0/003_Variable_Types.runtimeconfig.json
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/bin/Debug/net7.0/003_Variable_Types.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/bin/Debug/net7.0/003_Variable_Types.pdb
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/003_Variable_Types.csproj.AssemblyReference.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/003_Variable_Types.GeneratedMSBuildEditorConfig.editorconfig
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/003_Variable_Types.AssemblyInfoInputs.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/003_Variable_Types.AssemblyInfo.cs
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/003_Variable_Types.csproj.CoreCompileInputs.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/003_Variable_Types.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/refint/003_Variable_Types.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/003_Variable_Types.pdb
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/003_Variable_Types.genruntimeconfig.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/003_Variable_Types/obj/Debug/net7.0/ref/003_Variable_Types.dll
