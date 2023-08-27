@@ -1,0 +1,15 @@
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/bin/Debug/net7.0/004_DegiskenAlistirma
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/bin/Debug/net7.0/004_DegiskenAlistirma.deps.json
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/bin/Debug/net7.0/004_DegiskenAlistirma.runtimeconfig.json
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/bin/Debug/net7.0/004_DegiskenAlistirma.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/bin/Debug/net7.0/004_DegiskenAlistirma.pdb
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/004_DegiskenAlistirma.csproj.AssemblyReference.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/004_DegiskenAlistirma.GeneratedMSBuildEditorConfig.editorconfig
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/004_DegiskenAlistirma.AssemblyInfoInputs.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/004_DegiskenAlistirma.AssemblyInfo.cs
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/004_DegiskenAlistirma.csproj.CoreCompileInputs.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/004_DegiskenAlistirma.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/refint/004_DegiskenAlistirma.dll
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/004_DegiskenAlistirma.pdb
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/004_DegiskenAlistirma.genruntimeconfig.cache
+/home/yeliz/Documents/Udemy_Csharp_Tutorial/004_DegiskenAlistirma/obj/Debug/net7.0/ref/004_DegiskenAlistirma.dll
